@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: p45-bluesky
+  title: p45-bluesky
+  description: P45 specific bluesky plans and plan stubs 
+spec:
+  type: documentation
+  lifecycle: experimental
+  owner: group:default/sscc

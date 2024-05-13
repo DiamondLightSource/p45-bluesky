@@ -1,0 +1,16 @@
+# Changes here will be overwritten by Copier
+_commit: 2.1.0
+_src_path: gh:DiamondLightSource/python-copier-template
+author_email: callum.forrester@diamond.ac.uk
+author_name: Callum Forrester
+component_owner: group:default/sscc
+description: 'P45 specific bluesky plans and plan stubs '
+distribution_name: p45-bluesky
+docker: false
+docs_type: README
+git_platform: github.com
+github_org: DiamondLightSource
+package_name: p45_bluesky
+pypi: true
+repo_name: p45-bluesky
+type_checker: pyright
