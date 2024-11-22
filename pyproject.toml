@@ -12,7 +12,7 @@ classifiers = [
     "Programming Language :: Python :: 3.12",
 ]
 description = "P45 specific bluesky plans and plan stubs "
-dependencies = [] # Add project dependencies here, e.g. ["click", "numpy"]
+dependencies = ["dls-dodal>=1.36"] # Add project dependencies here, e.g. ["click", "numpy"]
 dynamic = ["version"]
 license.file = "LICENSE"
 readme = "README.md"
